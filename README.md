@@ -4,6 +4,7 @@ Links naar de belangrijkste (publieke) repos binnen deze organisatie.
 
 ## Bachelorproef
 
+- [De bachelorproef informatica: een praktische gids](https://github.com/HoGentTIN/bachproef-gids/)
 - [LaTeX sjabloon voor de bachelorproef](https://github.com/HoGentTIN/bachproef-latex-sjabloon)
 - [Richtlijnen verkort](https://github.com/HoGentTIN/bachproef-richtlijnen-verkort)
 
