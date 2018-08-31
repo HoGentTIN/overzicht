@@ -12,7 +12,7 @@ Links naar de belangrijkste (publieke) repos binnen deze organisatie.
 
 ## Besturingssystemen
 
-- [Syllabus Linux Inleiding](https://github.com/HoGentTIN/ilnx-syllabus)
+- [Syllabus Linux Inleiding - depracated, verhuisd naar Chamillo](https://github.com/HoGentTIN/ilnx-syllabus)
 
 ## Enterprise Linux
 
