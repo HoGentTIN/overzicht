@@ -4,6 +4,12 @@ Links naar de belangrijkste (publieke) repos binnen deze organisatie.
 
 **LET OP!! LET OP!! LET OP!!** Repositories van studenten(groepen) worden verwijderd voor het begin van het volgende academiejaar. **Zorg dus tijdig voor een backup!**
 
+## LaTeX sjablonen
+
+- [Bachelorproef](https://github.com/HoGentTIN/bachproef-latex-sjabloon)
+- [Beamer Presentatie](https://github.com/HoGentTIN/presentatie-latex-sjabloon)
+- [Examenopgave](https://github.com/HoGentTIN/examen-latex-sjabloon)
+
 ## Bachelorproef
 
 - [De bachelorproef informatica: een praktische gids](https://github.com/HoGentTIN/bachproef-gids/)
