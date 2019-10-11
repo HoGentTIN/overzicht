@@ -24,3 +24,7 @@ Links naar de belangrijkste (publieke) repos binnen deze organisatie.
 - [Opgave "Small/Medium Enterprise infrastructure"](https://github.com/HoGentTIN/elnx-sme)
 - [Opgave "High Availability"](https://github.com/HoGentTIN/elnx-ha)
 - [Opgave "Continuous Delivery"](https://github.com/HoGentTIN/elnx-cd)
+
+## Onderzoekstechnieken
+
+- [Cursus onderzoekstechnieken](https://github.com/HoGentTIN/onderzoekstechnieken-cursus)
