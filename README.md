@@ -6,25 +6,7 @@ Links naar de belangrijkste (publieke) repos binnen deze organisatie.
 
 ## LaTeX sjablonen
 
-- [Bachelorproef](https://github.com/HoGentTIN/bachproef-latex-sjabloon)
+- [HOGENT Report](https://github.com/HoGentTIN/hogent-latex-report). Nieuw sjabloon (documentclass) voor een rapport of thesis, aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
 - [Beamer Presentatie](https://github.com/HoGentTIN/presentatie-latex-sjabloon)
 - [Examenopgave](https://github.com/HoGentTIN/examen-latex-sjabloon)
-- [Artikel](https://github.com/HoGentTIN/artikel-latex-sjabloon): een kort document (enkele bladzijden), zoals gebruikt voor het onderzoeksvoorstel bachelorproef of verslag NPE onderzoekstechnieken.
-- [Rapport](https://github.com/HoGentTIN/rapport-latex-sjabloon): een langer document, bv. stageverslag.
-
-
-## Bachelorproef
-
-- [De bachelorproef informatica: een praktische gids](https://github.com/HoGentTIN/bachproef-gids/)
-- [Richtlijnen verkort](https://github.com/HoGentTIN/bachproef-richtlijnen-verkort)
-
-## Enterprise Linux
-
-- [Syllabus Enterprise Linux](https://github.com/HoGentTIN/elnx-syllabus)
-- [Opgave "Small/Medium Enterprise infrastructure"](https://github.com/HoGentTIN/elnx-sme)
-- [Opgave "High Availability"](https://github.com/HoGentTIN/elnx-ha)
-- [Opgave "Continuous Delivery"](https://github.com/HoGentTIN/elnx-cd)
-
-## Onderzoekstechnieken
-
-- [Cursus onderzoekstechnieken](https://github.com/HoGentTIN/onderzoekstechnieken-cursus)
+- [Artikel](https://github.com/HoGentTIN/artikel-latex-sjabloon): een kort document (enkele bladzijden), zoals gebruikt voor het onderzoeksvoorstel bachelorproef of verslag NPE onderzoekstechnieken. Aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
