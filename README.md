@@ -6,7 +6,7 @@ Links naar de belangrijkste (publieke) repos binnen deze organisatie.
 
 ## LaTeX sjablonen
 
-- [HOGENT Report](https://github.com/HoGentTIN/hogent-latex-report). Nieuw sjabloon (documentclass) voor een rapport of thesis, aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
-- [Beamer Presentatie](https://github.com/HoGentTIN/presentatie-latex-sjabloon)
-- [Examenopgave](https://github.com/HoGentTIN/examen-latex-sjabloon)
-- [Artikel](https://github.com/HoGentTIN/artikel-latex-sjabloon): een kort document (enkele bladzijden), zoals gebruikt voor het onderzoeksvoorstel bachelorproef of verslag NPE onderzoekstechnieken. Aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
+- [HOGENT Report](https://github.com/HoGentTIN/latex-hogent-report). Nieuw sjabloon (documentclass) voor een rapport of thesis, aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
+- [Beamer Presentatie](https://github.com/HoGentTIN/latex-hogent-beamer)
+- [Examenopgave](https://github.com/HoGentTIN/latex-hogent-exam)
+- [Artikel](https://github.com/HoGentTIN/latex-hogent-article): een kort document (enkele bladzijden), zoals gebruikt voor het onderzoeksvoorstel bachelorproef of verslag NPE onderzoekstechnieken. Aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
